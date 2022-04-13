@@ -1,0 +1,17 @@
+{
+  "name": "primer-proyecto-node",
+  "version": "1.0.0",
+  "description": "Pizzas.API pero en javascript :o",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Faustito04",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.13.0",
+    "express": "^4.17.3"
+  }
+}
